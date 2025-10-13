@@ -1,6 +1,8 @@
 `java 21` |  `spring 3.4.7`
 <details><summary> dependencies </summary>
 
+
+
 ```txt
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
